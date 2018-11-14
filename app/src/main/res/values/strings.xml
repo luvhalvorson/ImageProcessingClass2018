@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Preprocessing</string>
+    <string name="action_load_image">Load Image</string>
+
+    <string name="menu_mean_blur">Mean Blur</string>
+    <string name="menu_gaussian_blur">Gaussian Blur</string>
+    <string name="menu_median_blur">Median Blur</string>
+    <string name="menu_sharpen">Sharpen</string>
+    <string name="menu_threshold">Threshold</string>
+    <string name="menu_region_labeling">Region Labeling</string>
+
+</resources>
